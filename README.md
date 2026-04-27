@@ -1,6 +1,6 @@
 # Spring Boot Logbook Example
 
-> **Spring Boot** 프로젝트에서 **Logbook** 라이브러리를 활용하여 HTTP 요청 및 응답을 로깅하는 예제 프로젝트입니다.
+> **Spring Boot** 프로젝트에서 **Logbook** 라이브러리를 활용하여 HTTP 요청 및 응답을 로깅하는 학습용 프로젝트입니다.
 
 
 
